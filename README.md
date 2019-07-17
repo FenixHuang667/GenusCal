@@ -24,9 +24,9 @@ The executive file is Gcal in ./src.
 
 ## Running 
 
-### Running HamSampler 
+### Running Gcal 
 
-There are several options for HamSampler. Use the following command to see all options. 
+There are several options for Gcal. Use the following command to see all options. 
 ```
 ./src/Gcal -h  
 ```
